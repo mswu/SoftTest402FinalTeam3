@@ -1,0 +1,8 @@
+C:\UW\SoftTest402FinalTeam3\SoftTest402FinalTeam3\bin\Debug\SoftTest402FinalTeam3.exe.config
+C:\UW\SoftTest402FinalTeam3\SoftTest402FinalTeam3\bin\Debug\SoftTest402FinalTeam3.exe
+C:\UW\SoftTest402FinalTeam3\SoftTest402FinalTeam3\bin\Debug\SoftTest402FinalTeam3.pdb
+C:\UW\SoftTest402FinalTeam3\SoftTest402FinalTeam3\bin\Debug\TAF.dll
+C:\UW\SoftTest402FinalTeam3\SoftTest402FinalTeam3\bin\Debug\TAF.pdb
+C:\UW\SoftTest402FinalTeam3\SoftTest402FinalTeam3\obj\Debug\SoftTest402FinalTeam3.csprojResolveAssemblyReference.cache
+C:\UW\SoftTest402FinalTeam3\SoftTest402FinalTeam3\obj\Debug\SoftTest402FinalTeam3.exe
+C:\UW\SoftTest402FinalTeam3\SoftTest402FinalTeam3\obj\Debug\SoftTest402FinalTeam3.pdb
